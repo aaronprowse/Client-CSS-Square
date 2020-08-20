@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f6e7f4c7-4308-4603-b79f-537f9e9d2298" name="SQUARE DEV" url="http://pal-dev.co.uk">
+        <fileTransfer host="pal-dev.co.uk" port="21" rootFolder="/pal-dev/square.pal-dev.co.uk/wwwroot/" password="dffadfc6df9edfc4dfcbdfe6df9bdfc4dfc1" username="pal-dev">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
